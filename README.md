@@ -72,7 +72,7 @@ Los parámetros se modifican en la **Sección 1** del script.
 
 ## Integrantes
 
-- Nombre Apellido
-- Nombre Apellido
-- Nombre Apellido
-- Nombre Apellido
+- Lucas Bogado
+- Lucas Aponte
+- Alexis Mango
+- Juan Cruz Neira
